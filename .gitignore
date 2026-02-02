@@ -1,0 +1,7 @@
+# Ignore build folders ONLY
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
