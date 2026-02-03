@@ -5,7 +5,6 @@ This is a safe maintenance free, bloatware free, and safe to use PC clean up uti
 **TESTED ONLY ON WINDOWS 10/11!!**
 
 
-
 ## Program Features
 
 * **System Cleanup**: Empties/Clears: Temp files, Recycle Bin, Downloads folder
@@ -14,6 +13,8 @@ This is a safe maintenance free, bloatware free, and safe to use PC clean up uti
 * **Power Management**: Change plans, reboot, shutdown
 * **Network Tools**: Reset configuration, flush DNS, renew IP
 * **Startup Manager**: View programs (safe read-only mode)
+* **System Restore Point Creator**: Safety net before cleanup operations
+* **Privacy Guard**: Disables Windows Data tracking usage and deletes bloatware.
 
 ## Safety First
 
